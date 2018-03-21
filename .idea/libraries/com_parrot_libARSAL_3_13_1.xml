@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.parrot:libARSAL-3.13.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/com.parrot/libARSAL/3.13.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../app/build/intermediates/exploded-aar/com.parrot/libARSAL/3.13.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parrot/libARSAL/3.13.1/1b56bb8b70092f7ef1cc306b057d878b30b92e81/libARSAL-3.13.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
