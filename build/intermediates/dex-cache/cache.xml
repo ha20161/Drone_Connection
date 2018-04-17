@@ -3,15 +3,6 @@
 
     <item
         is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARNetworkAL/3.13.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="0ce74cc7fef65380a86e44f3f10df9b7903005bc">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.parrot-libARNetworkAL-3.13.1_9646d1f8f3d3207667754dfb7fa068c08d146169.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Haleema/AndroidStudioProjects/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -39,15 +30,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_352680fc5b40b5f5278c8607fe545d62cb1ad7b6.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Haleema/AndroidStudioProjects/SDKSample/app/build/intermediates/exploded-aar/com.parrot/arsdk/3.13.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -66,15 +48,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_27b38c2e565403f20319d2b03679d03c94486be3.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Haleema/AndroidStudioProjects/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARDataTransfer/3.13.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -89,43 +62,7 @@
         optimize="true"
         revision="24.0.2"
         sha1="8396778b076a2eaf62024b64f6d924e4e0095fca">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/sanselan-0.97-incubator_1801088e1515564367c989fc57d3b57aa8e8972d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_62ac8232620d8f181adc23c29a47d5bfdd985e71.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARUpdater/3.13.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="72d7000b157524c3978e47c851c894b4534d5573">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.parrot-libARUpdater-3.13.1_882041fe78efbefc4975ed9975f3cf1f85550785.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libmux/3.13.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="23413b76c92c10c23fa385dede38f0586979389e">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.parrot-libmux-3.13.1_1bb635e9e75c6a46e6d3ff915e4c1aa47f6db6b6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_22413a5d9b8a65bb7c6edd8fbcadb9e421a17cee.jar" />
+        <dex dex="/Users/Haleema/AndroidStudioProjects/SDKSample/app/build/intermediates/pre-dexed/debug/sanselan-0.97-incubator_1801088e1515564367c989fc57d3b57aa8e8972d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -138,30 +75,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARMedia/3.13.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="db0ca85dd19dbc5f5e1154cf65002d6143283cd9">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.parrot-libARMedia-3.13.1_584a57fef65930ef3f838c703bc01e09a0e9a4f2.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Haleema/AndroidStudioProjects/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
         <dex dex="/Users/Haleema/AndroidStudioProjects/SDKSample/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_f2d781ecac6409aea19663838cbc848c5c9248d1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_486548db03915c39f4750f72fdb5f9c9efb5ff20.jar" />
     </item>
     <item
         is-multidex="false"
@@ -192,15 +111,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_b71139eda92e5d7d494c05d223dda1175b7967ad.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Haleema/AndroidStudioProjects/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
         jumboMode="false"
         optimize="true"
@@ -216,15 +126,6 @@
         revision="24.0.2"
         sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
         <dex dex="/Users/Haleema/AndroidStudioProjects/SDKSample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_efeb8dd72306e6797a52bb9a6973f3dbb36daa60.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_8197793d95474846d0bc3076ee7772e5209d39a6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -255,33 +156,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_067fa229562d6b4b3195c01f3b33043e0b1d8c74.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_48233ab730e9718487dda9a01a237dc6c0ae4e47.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARCommands/3.13.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1c8adbbd321e4557370e51fcc013d502f532ef6c">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.parrot-libARCommands-3.13.1_fc3e02214162eef98ad48461b16c787c3d2dca25.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Haleema/AndroidStudioProjects/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARUtils/3.13.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -309,24 +183,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARNetwork/3.13.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="bf4e0100cfef5809dfb5c5e7102201d1b3fcf8e7">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.parrot-libARNetwork-3.13.1_28fb2230a3b96b97bd82e06bfd477e8ab913a632.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_1dff759c37d1553a35a6d3bf9bc97c76112a8d9a.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Haleema/AndroidStudioProjects/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARMedia/3.13.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -336,75 +192,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_9cdaa410b34fb04ebdf1ba8ee795e10acd0a70dc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARStream/3.13.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="448c81bbce241cbb356872b556b93d4071896c90">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.parrot-libARStream-3.13.1_edcbef67b6580f02344e91bb837101cd3c4238c4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_e373ddfa25e866bb86e5c120a245f23ee88d32c3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_3afa6472d431219d6249639b73e83b98f70c7a81.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Haleema/AndroidStudioProjects/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARSAL/3.13.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="80e60240953ee1a17746af0c4de9985f2dc95ca7">
         <dex dex="/Users/Haleema/AndroidStudioProjects/SDKSample/app/build/intermediates/pre-dexed/debug/com.parrot-libARSAL-3.13.1_7425f414e458fad5e1fea86b43a3f1f473a05da1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARController/3.13.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="571e7fcd546c47cd5c58ca32e19498068ddad981">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.parrot-libARController-3.13.1_8d570736976ba5d86bc9fa9d7cb7d9fd812de495.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARUtils/3.13.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4f8c04a9d9d8f3ab05413e5c8fd5d1d83134812b">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.parrot-libARUtils-3.13.1_5404de217644643b0bcc2b60e7bef1fc28e4fa37.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARStream2/3.13.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="ed7b478f89fdd3bc8cae7a304d44461543280664">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.parrot-libARStream2-3.13.1_5d4fef3b8495a261e7a6d5986e73a7f16af6e1b2.jar" />
     </item>
     <item
         is-multidex="false"
@@ -423,15 +216,6 @@
         revision="24.0.2"
         sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
         <dex dex="/Users/Haleema/AndroidStudioProjects/SDKSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_460b900b3e2bc63ea1c764a80593f0da1223000e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARMavlink/3.13.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="556d4cee8a8f2edc5912c03cce6b5ce9b007ff02">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.parrot-libARMavlink-3.13.1_932fc376811f90a35b54cb2c5c6b50e27ab323a6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -471,30 +255,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARDiscovery/3.13.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c159ed08bacfcd893e33bd1a3e0b283ea293ec73">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.parrot-libARDiscovery-3.13.1_7c944659cbf09c2e527a7e8009540fd7ffbb651e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_f821cdc0ffa2b2000d4e452c89663feda74de9f0.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Haleema/.gradle/caches/modules-2/files-2.1/javax.jmdns/jmdns/3.4.1/7ba2dcf7effb5ca9b00736b2a066fff3dd01d432/jmdns-3.4.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="7ba2dcf7effb5ca9b00736b2a066fff3dd01d432">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/jmdns-3.4.1_f0b88c3dd7cde64f9b967bc4f9e924e87df5c650.jar" />
+        <dex dex="/Users/Haleema/AndroidStudioProjects/SDKSample/app/build/intermediates/pre-dexed/debug/jmdns-3.4.1_f0b88c3dd7cde64f9b967bc4f9e924e87df5c650.jar" />
     </item>
     <item
         is-multidex="false"
@@ -516,48 +282,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARDataTransfer/3.13.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="4cfaad369b0c6f9969b7311f163b7f115b470c07">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.parrot-libARDataTransfer-3.13.1_25ab25dbc204dafa7a3d0cbf945be82826e55dda.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_0d389fe05a806966f6598e63a02b34b8f127d888.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Haleema/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_241efbabbd94a5acefe4bfd59d69dffc286aaccc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARSAL/3.13.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="80e60240953ee1a17746af0c4de9985f2dc95ca7">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.parrot-libARSAL-3.13.1_2adcc412c45129bae3346601c3781e15ba2214f0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_9a00bb022497c5d8632311cf794fc817e7029e9f.jar" />
+        <dex dex="/Users/Haleema/AndroidStudioProjects/SDKSample/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_241efbabbd94a5acefe4bfd59d69dffc286aaccc.jar" />
     </item>
     <item
         is-multidex="false"
@@ -566,7 +296,7 @@
         optimize="true"
         revision="24.0.2"
         sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_3fcdbf200e508371fa0cbd8134b93bfe11b81ef0.jar" />
+        <dex dex="/Users/Haleema/AndroidStudioProjects/SDKSample/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_3fcdbf200e508371fa0cbd8134b93bfe11b81ef0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -579,30 +309,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_afeb314dd74adf7ae770ac39871e4f33b3601b7d.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/Haleema/AndroidStudioProjects/SDKSample/app/build/intermediates/exploded-aar/com.parrot/libARMavlink/3.13.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="556d4cee8a8f2edc5912c03cce6b5ce9b007ff02">
         <dex dex="/Users/Haleema/AndroidStudioProjects/SDKSample/app/build/intermediates/pre-dexed/debug/com.parrot-libARMavlink-3.13.1_15926ca3f39721e9009d9d17ec4956b79f75aabe.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/exploded-aar/com.parrot/arsdk/3.13.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="1ac01eecd6b1731ce794c90a1e19ef0dcd349066">
-        <dex dex="/Users/Haleema/Downloads/Samples-master-2/Android/SDKSample/app/build/intermediates/pre-dexed/debug/com.parrot-arsdk-3.13.1_45a54cff96a7a52e615cbaa03c96ed5a99626655.jar" />
     </item>
     <item
         is-multidex="false"
